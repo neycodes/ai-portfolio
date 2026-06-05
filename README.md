@@ -1,31 +1,27 @@
-# AI Portfolio – Meshack Jr
+# AI Portfolio – Meshack Jr (neycodes)
 
 ## About Me
 Computer Science student based in Nairobi, Kenya.  
-Focused on building practical AI and Python projects for real-world applications.
+I am building practical AI and Python projects to prepare for remote AI and software engineering roles.
 
 ## Skills
-- Python (beginner to intermediate)
-- Prompt Engineering
-- Basic AI tool usage
-- Web research and analysis
-- GitHub fundamentals
+- Python (beginner level)
+- AI fundamentals (learning stage)
+- Prompt engineering basics
+- GitHub project management
 
 ## Projects
 
-### 1. AI Portfolio (this repo)
-This repository contains my AI learning journey and projects including fact-checking systems and prompt engineering experiments.
+### 1. AI Fact-Checking Tool
+A Python-based system that evaluates claims and classifies them as TRUE, FALSE, or UNCERTAIN using rule-based logic.
 
-### 2. Coming Soon: AI Fact-Checking Tool
-A system that verifies claims using structured reasoning and web-style validation logic.
-
-### 3. Coming Soon: Prompt Engineering Lab
-A collection of optimized prompts for different AI tasks (writing, coding, summarizing, analysis).
-
-## Goals
-- Build job-ready AI projects
-- Strengthen Python skills
-- Learn applied machine learning concepts
-- Prepare for remote AI-related jobs
+### Example:
+- Input: "The Earth is flat"  
+- Output: FALSE - Scientific consensus confirms Earth is spherical.
 
 ---
+
+## Goals
+- Build real AI projects step-by-step
+- Learn how modern AI systems work
+- Create a strong GitHub portfolio for job applications
