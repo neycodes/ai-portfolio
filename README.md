@@ -25,3 +25,6 @@ A Python-based system that evaluates claims and classifies them as TRUE, FALSE, 
 - Build real AI projects step-by-step
 - Learn how modern AI systems work
 - Create a strong GitHub portfolio for job applications
+## Contact
+- GitHub: https://github.com/neycodes
+- Location: Nairobi, Kenya
